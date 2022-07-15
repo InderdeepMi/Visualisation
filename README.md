@@ -1,4 +1,4 @@
-# Visualisation
+# Visualization
 Visualisierung der Daten des Kaggle Datenset "Brazilian E-Commerce Public Dataset by Olist"
 
 Der Link zum Datenset:
